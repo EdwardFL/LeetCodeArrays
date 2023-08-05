@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24d53929-37dd-4290-af66-5dd61f00633d" name="Changes" comment="Generate gitignore for IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/CheckIfTheSentenceIsPangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountItemsMatchingARule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfGoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
+    <list default="true" id="24d53929-37dd-4290-af66-5dd61f00633d" name="Changes" comment="Added more solved problems">
+      <change afterPath="$PROJECT_DIR$/src/BuildArrayFromPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcatenationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RunningSumOf1dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffleTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/eduardciolompea/Desktop/DataStructuresAndAlgorithms/Arrays/LeetCodeArrays",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eduardciolompea/Desktop/DataStructuresAndAlgorithms/Arrays/LeetCodeArrays&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +71,8 @@
       <updated>1689250050509</updated>
       <workItem from="1689250052331" duration="6633000" />
       <workItem from="1689512373468" duration="681000" />
+      <workItem from="1689622775015" duration="1541000" />
+      <workItem from="1691264080367" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the repository">
       <created>1689250449872</created>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689250731809</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added more solved problems">
+      <created>1689623576230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689623576230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize the repository" />
     <MESSAGE value="Generate gitignore for IntelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generate gitignore for IntelliJ" />
+    <MESSAGE value="Added more solved problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more solved problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
